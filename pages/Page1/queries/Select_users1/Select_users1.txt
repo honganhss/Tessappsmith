@@ -1,0 +1,10 @@
+SELECT
+  *
+FROM
+  users
+ORDER BY
+  EditActions1 DESC
+LIMIT
+  5
+OFFSET
+  0
